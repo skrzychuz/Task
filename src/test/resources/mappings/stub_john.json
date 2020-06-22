@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/John/Repo"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Server": "GitHub"
+    }
+  }
+}
+
+
